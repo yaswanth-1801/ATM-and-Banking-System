@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040499
+# Name: Yaswanth R
+# Date: 18/05/2008
 
 
 # AIM:
