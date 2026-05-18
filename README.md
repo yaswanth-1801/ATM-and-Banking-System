@@ -48,6 +48,9 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="701" height="717" alt="image" src="https://github.com/user-attachments/assets/ee3ef1e8-74fd-47de-a6f5-11b805bead45" />
+
+
 
 
 
@@ -67,6 +70,8 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="1035" height="767" alt="image" src="https://github.com/user-attachments/assets/c2387b18-e2ee-46a9-a60d-413b7d47e5a3" />
+
 
 
 
